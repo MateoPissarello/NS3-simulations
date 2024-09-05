@@ -195,6 +195,7 @@ De esta manera se pueden visualizar las animacines generadas a partir de las sim
 - Mateo Pissarello Londoño [@MateoPissarello](https://github.com/MateoPissarello?tab=repositories) 
 - Julián Rincón [@MalianR](https://github.com/MalianR)
 - Daniela López Rincòn [@Dani213343](https://github.com/Dani213343)
+- Miguel Fernandez
 
 
 
